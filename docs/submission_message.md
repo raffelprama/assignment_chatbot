@@ -13,4 +13,4 @@ Cara menjalankan, alasan teknis, keterbatasan, demo pengujian, dan catatan evalu
 Terima kasih atas waktu dan perhatiannya.
 
 Hormat saya,
-[Nama Anda]
+Raffel Prama
