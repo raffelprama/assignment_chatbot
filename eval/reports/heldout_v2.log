@@ -1,0 +1,79 @@
+HO1   ok                     answered      Untuk tiket P2, pelanggan harus diberi kabar setiap 4 jam kerja jika belum selesai [KB_03 
+HO2   ok                     answered      Saat serah terima shift, petugas harus mencatat tiket aktif, pekerjaan tertunda, hambatan,
+HO3   ok                     answered      Petugas tidak boleh menjanjikan pengembalian dana atau kompensasi sebelum ada persetujuan 
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+HO4   FAIL[hallucination]    partial       The documents do not state whether P2 is the same as SEV2. P2 is defined as 'fungsi pentin
+HO5   ok                     partial       Permintaan perubahan data akun tidak diproses melalui pesan pribadi petugas tanpa verifika
+HO6   ok                     answered      Koordinator insiden memimpin keputusan dan komunikasi lintas tim [KB_04 §4].
+HO7   ok                     out_of_scope  Pertanyaan ini berada di luar cakupan dokumen SOP yang tersedia (Penanganan Tiket Layanan,
+HO8   ok                     answered      Tidak, tidak setiap keluhan merupakan insiden karena penilaian didasarkan pada dampak nyat
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+HO9   ok                     answered      Laporan mingguan berisi ringkasan jumlah tiket, kategori masalah, ketepatan respons, backl
+HO10  ok                     partial       Dokumen menyatakan bahwa SEV4 adalah gangguan minor tanpa dampak signifikan [KB_04 §2], te
+HO11  ok                     partial       Dokumen tidak menyebutkan kapan pembaruan status internal harus dibuat untuk insiden SEV2 
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+HO12  ok                     answered      Yes, chat screenshots (evidence of conversation) may be attached as long as sensitive data
+{
+  "questions": 12,
+  "correct": 11,
+  "by_group": {
+    "direct": "6/6",
+    "ambiguous": "2/3",
+    "unsupported": "2/2",
+    "multi": "1/1"
+  },
+  "failures": {
+    "hallucination": 1
+  },
+  "hallucinations": 1,
+  "errors": 0,
+  "errors_first_pass": 0,
+  "statuses": {
+    "answered": 7,
+    "partial": 4,
+    "out_of_scope": 1
+  },
+  "judge": {
+    "pass": 11,
+    "skipped": 1
+  },
+  "retries": 0,
+  "invalid_citations_removed": 0,
+  "mean_retrieval_recall": 1.0,
+  "latency_ms": {
+    "p50": 10726,
+    "p95": 54486,
+    "max": 111428
+  },
+  "node_p50_ms": {
+    "normalize": 1908,
+    "retrieve": 888,
+    "answer": 7504,
+    "check_citations": 0,
+    "judge": 1263,
+    "respond": 0
+  },
+  "llm_calls_per_question": 2.83,
+  "tokens_per_question": {
+    "input": 1877,
+    "output": 237
+  },
+  "cost_usd_total": 0.01386,
+  "cost_usd_per_question": 0.001155,
+  "unpriced_calls": 0,
+  "models": [
+    "gemini-3.5-flash-lite"
+  ]
+}

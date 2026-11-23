@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# runtime state (rebuilt by `python -m app.ingest`)
+data/uploads/
+data/cache/
+data/registry.sqlite
+qdrant_storage/

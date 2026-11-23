@@ -1,0 +1,335 @@
+{
+  "doc_id": "KB_03_Panduan_Operasional_Layanan",
+  "label": "KB_03",
+  "file_name": "KB_03_Panduan_Operasional_Layanan.pdf",
+  "sha256": "93dbdeeec44ce646fe1b79525a291cba441842e1b8570f985cd554b957a15910",
+  "title": "Panduan Operasional Layanan",
+  "structure": "numbered",
+  "pages": [
+    {
+      "page_no": 1,
+      "method": "text_layer",
+      "layout": "two_column",
+      "text": "Panduan Operasional Layanan\n1. Jam Layanan\nLayanan reguler beroperasi Senin sampai Jumat\npukul 09.00-17.00 WIB, tidak termasuk hari libur\nnasional. Gangguan kritis diteruskan melalui jalur\npiket di luar jam tersebut.\n2. Serah Terima Shift\nPetugas mencatat tiket aktif, pekerjaan tertunda,\nhambatan, PIC, dan tenggat pembaruan. Serah\nterima dilakukan sebelum pergantian petugas\nuntuk menghindari tiket tanpa penanggung jawab.\n3. Pemeriksaan Harian\nPada awal hari kerja, petugas memeriksa antrean\ntiket baru, tiket mendekati batas respons, tiket\nmenunggu pelanggan, dan pengumuman\ngangguan yang masih aktif.\n4. Pembaruan Berkala\nTiket P1 diperbarui kepada pelanggan setidaknya\nsetiap 30 menit selama gangguan aktif. Tiket P2\ndiperbarui setiap 4 jam kerja jika belum selesai.\nUntuk P3 dan P4, pembaruan diberikan saat ada\nperkembangan penting atau sesuai janji petugas.\n5. Kanal Komunikasi\nInformasi resmi diberikan melalui kanal layanan\nyang tercatat. Permintaan perubahan data akun\ntidak diproses melalui pesan pribadi petugas tanpa\nverifikasi.\n6. Pengelolaan Dokumen\nSimpan bukti dan catatan kerja di lokasi yang\ndisetujui. Berkas pelanggan tidak boleh dibagikan\nmelalui tautan publik. Hapus salinan lokal yang\ntidak lagi dibutuhkan sesuai kebijakan retensi.\n7. Pelaporan Mingguan\nKoordinator menyusun ringkasan jumlah tiket,\nkategori masalah, ketepatan respons, backlog, dan\nkendala operasional. Angka dihitung dari catatan\nsistem, bukan perkiraan manual.\n8. Situasi Tidak Biasa\nJika sistem tiket tidak tersedia, catat laporan dalam\nformulir sementara dengan waktu asli penerimaan.\nSetelah sistem pulih, masukkan data kembali dan\ntandai bahwa tiket berasal dari pencatatan\nsementara.",
+      "route_reason": "text layer ok"
+    }
+  ],
+  "sections": [
+    {
+      "section_no": 1,
+      "title": "Jam Layanan",
+      "text": "Layanan reguler beroperasi Senin sampai Jumat pukul 09.00-17.00 WIB, tidak termasuk hari libur nasional. Gangguan kritis diteruskan melalui jalur piket di luar jam tersebut.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 2,
+      "title": "Serah Terima Shift",
+      "text": "Petugas mencatat tiket aktif, pekerjaan tertunda, hambatan, PIC, dan tenggat pembaruan. Serah terima dilakukan sebelum pergantian petugas untuk menghindari tiket tanpa penanggung jawab.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 3,
+      "title": "Pemeriksaan Harian",
+      "text": "Pada awal hari kerja, petugas memeriksa antrean tiket baru, tiket mendekati batas respons, tiket menunggu pelanggan, dan pengumuman gangguan yang masih aktif.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 4,
+      "title": "Pembaruan Berkala",
+      "text": "Tiket P1 diperbarui kepada pelanggan setidaknya setiap 30 menit selama gangguan aktif. Tiket P2 diperbarui setiap 4 jam kerja jika belum selesai. Untuk P3 dan P4, pembaruan diberikan saat ada perkembangan penting atau sesuai janji petugas.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 5,
+      "title": "Kanal Komunikasi",
+      "text": "Informasi resmi diberikan melalui kanal layanan yang tercatat. Permintaan perubahan data akun tidak diproses melalui pesan pribadi petugas tanpa verifikasi.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 6,
+      "title": "Pengelolaan Dokumen",
+      "text": "Simpan bukti dan catatan kerja di lokasi yang disetujui. Berkas pelanggan tidak boleh dibagikan melalui tautan publik. Hapus salinan lokal yang tidak lagi dibutuhkan sesuai kebijakan retensi.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 7,
+      "title": "Pelaporan Mingguan",
+      "text": "Koordinator menyusun ringkasan jumlah tiket, kategori masalah, ketepatan respons, backlog, dan kendala operasional. Angka dihitung dari catatan sistem, bukan perkiraan manual.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 8,
+      "title": "Situasi Tidak Biasa",
+      "text": "Jika sistem tiket tidak tersedia, catat laporan dalam formulir sementara dengan waktu asli penerimaan. Setelah sistem pulih, masukkan data kembali dan tandai bahwa tiket berasal dari pencatatan sementara.",
+      "pages": [
+        1
+      ]
+    }
+  ],
+  "doc_map": "Panduan Operasional Layanan. Isi dokumen (8 bagian): §1 Jam Layanan; §2 Serah Terima Shift; §3 Pemeriksaan Harian; §4 Pembaruan Berkala; §5 Kanal Komunikasi; §6 Pengelolaan Dokumen; §7 Pelaporan Mingguan; §8 Situasi Tidak Biasa.",
+  "keys": {
+    "1": [
+      {
+        "text": "Kapan layanan reguler beroperasi?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Layanan reguler buka jam berapa aja?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Hari apa saja layanan reguler tersedia?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Penanganan gangguan kritis di luar jam layanan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What are the operating hours for regular service?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "2": [
+      {
+        "text": "Informasi apa saja yang dicatat petugas saat serah terima shift?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo serah terima shift, apa aja yang perlu dicatet?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Mengapa serah terima shift dilakukan sebelum pergantian petugas?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Tujuan serah terima shift?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What information is recorded during a shift handover?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "3": [
+      {
+        "text": "Apa saja yang diperiksa petugas pada awal hari kerja?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Tiap awal hari kerja, petugas ngecek apa aja?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kapan petugas melakukan pemeriksaan harian?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Pemeriksaan harian tiket?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What items do officers check at the start of the workday?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "4": [
+      {
+        "text": "Bagaimana frekuensi pembaruan untuk tiket P1?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo tiket P2, di-update-nya tiap berapa lama?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kapan pembaruan diberikan untuk tiket P3 dan P4?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Pembaruan tiket P1, P2, P3, P4?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "How often are P1 tickets updated to customers?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "5": [
+      {
+        "text": "Melalui kanal apa informasi resmi diberikan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo mau ubah data akun, bisa lewat chat pribadi petugas gak?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana permintaan perubahan data akun diproses?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kanal informasi resmi?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "How is official information provided?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "6": [
+      {
+        "text": "Di mana bukti dan catatan kerja harus disimpan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Berkas pelanggan boleh di-share lewat link publik gak?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kapan salinan lokal dokumen harus dihapus?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Penyimpanan bukti kerja?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Where should proof and work records be stored?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "7": [
+      {
+        "text": "Siapa yang menyusun pelaporan mingguan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo pelaporan mingguan, angka-angkanya diitung dari mana?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apa saja yang diringkas dalam pelaporan mingguan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Sumber data pelaporan mingguan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What information is summarized in the weekly report?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "8": [
+      {
+        "text": "Apa yang harus dilakukan jika sistem tiket tidak tersedia?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo sistem tiket lagi down, laporannya dicatet di mana?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana penanganan laporan setelah sistem tiket pulih?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Pencatatan laporan saat sistem tiket tidak tersedia?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What should be done if the ticket system is unavailable?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ]
+  },
+  "report": {
+    "pages_by_method": {
+      "text_layer": 1
+    },
+    "layouts": {
+      "two_column": 1
+    },
+    "sections": 8,
+    "keys": {
+      "kept": 40,
+      "dropped": 0
+    },
+    "validator": [],
+    "usage": {
+      "input_tokens": 631,
+      "output_tokens": 2727,
+      "reasoning_tokens": 2106,
+      "llm_calls": 1,
+      "cost_usd": 0.007007,
+      "by_call": [
+        {
+          "node": "keys",
+          "model": "gemini-2.5-flash",
+          "input_tokens": 631,
+          "output_tokens": 2727,
+          "reasoning_tokens": 2106,
+          "latency_ms": 13554.7,
+          "cost_usd": 0.0070068000000000005
+        }
+      ]
+    }
+  },
+  "created_at": "2026-11-23T15:10:23+00:00"
+}

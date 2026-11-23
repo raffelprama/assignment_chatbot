@@ -1,0 +1,149 @@
+A1    ok                     answered      Target respons awal untuk tiket P1 adalah 15 menit [KB_01 §4].
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.5-flash-lite error=GoogleAPIError
+A2    ok                     answered      Keluhan harus diakui paling lambat satu hari kerja sejak diterima, dengan menyertakan nomo
+A3    ok                     answered      Layanan reguler beroperasi dari hari Senin sampai Jumat pukul 09.00-17.00 WIB, dengan kete
+A4    ok                     answered      Tiket P1 diperbarui kepada pelanggan setidaknya setiap 30 menit selama gangguan aktif [KB_
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleRateLimitError
+A5    ok                     answered      Petugas tidak boleh meminta kode OTP, kata sandi, atau PIN saat melakukan verifikasi [KB_0
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.5-flash-lite error=GoogleRateLimitError
+WARNING app.llm.factory llm_quota_exhausted model=gemini-3.5-flash-lite retry_in=54s
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+A6    ok                     answered      Tinjauan pascainsiden harus disusun untuk tingkat SEV1 dan SEV2 paling lambat lima hari ke
+A7    ok                     answered      Tim teknis menangani gangguan sistem, sedangkan tim administrasi menangani perubahan data 
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.1-flash-lite error=GoogleAPIError
+A8    ok                     answered      Respons awal berarti petugas telah mengakui laporan dan menyampaikan langkah berikutnya, b
+A9    ok                     answered      The initial response target for P3 tickets is 4 working hours [KB_01 §4].
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.6-flash error=GoogleRateLimitError
+A10   ok                     answered      Jika sistem tiket tidak tersedia, Anda harus mencatat laporan dalam formulir sementara den
+A11   ok                     answered      SEV2 adalah layanan utama terdegradasi bagi banyak pengguna [KB_04 §2]. SEV2 dieskalasikan
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+L1    ok                     answered      Dokumen SOP yang tersedia adalah Penanganan Tiket Layanan [KB_01 peta-dokumen], Pengelolaa
+L2    ok                     answered      SOP Eskalasi dan Penanganan Insiden terdiri dari 8 bagian, yaitu: §1 Definisi, §2 Tingkat 
+M1    ok                     answered      Jika terdapat indikasi kebocoran data, yang harus Anda lakukan adalah segera membatasi aks
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.1-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.1-flash-lite error=GoogleAPIError
+M2    ok                     answered      Tiket yang sudah selesai dapat ditutup setelah dua hari kerja tanpa tanggapan sejak notifi
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.6-flash error=GoogleRateLimitError
+M3    ok                     answered      Tidak, penyelesaian insiden tidak otomatis menutup semua tiket pelanggan yang terkait, mel
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.6-flash error=GoogleRateLimitError
+M4    ok                     answered      Keluhan yang sama dalam 30 hari ditandai sebagai berulang dan ditinjau oleh koordinator, t
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.1-flash-lite error=GoogleAPIError
+H1    ok                     partial       Status tiket yang digunakan adalah Baru, Diproses, Menunggu Pelanggan, Menunggu Pihak Keti
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.1-flash-lite error=GoogleAPIError
+H2    ok                     partial       Dokumen menyatakan bahwa komunikasi kepada pelanggan untuk insiden SEV1 mencakup waktu pem
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=normalize model=gemini-3.6-flash error=GoogleRateLimitError
+H3    ok                     partial       Target respons awal untuk tiket P2 adalah 1 jam [KB_01 §4]. Dokumen tidak merinci bagaiman
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+H4    FAIL[wrong_refusal]    no_answer     Maaf, informasi tersebut tidak ditemukan dalam dokumen SOP yang tersedia. Silakan ajukan p
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.6-flash error=GoogleRateLimitError
+WARNING app.llm.factory llm_call_failed node=answer model=gemini-3.1-flash-lite error=GoogleAPIError
+H5    ok                     answered      SEV2 dieskalasikan kepada penanggung jawab teknis paling lambat 30 menit sejak klasifikasi
+H6    ok                     partial       Dokumen menyebutkan untuk menginformasikan koordinator layanan apabila ada indikasi keboco
+H7    ok                     answered      Tiket P3 diberi pembaruan saat ada perkembangan penting atau sesuai janji petugas [KB_03 §
+H8    ok                     answered      Ya, apabila informasi belum lengkap, tiket tetap dibuat dengan status Menunggu Informasi [
+U1    ok                     partial       Panduan Operasional Layanan menyebutkan untuk menghapus salinan lokal yang tidak lagi dibu
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.5-flash-lite error=GoogleAPIError
+WARNING app.llm.factory llm_call_failed node=judge model=gemini-3.6-flash error=GoogleRateLimitError
+U2    ok                     partial       Dokumen menyatakan bahwa petugas tidak boleh menjanjikan pengembalian dana atau kompensasi
+U3    ok                     no_answer     Maaf, informasi tersebut tidak ditemukan dalam dokumen SOP yang tersedia. Silakan ajukan p
+U4    ok                     out_of_scope  Pertanyaan ini berada di luar cakupan dokumen SOP yang tersedia (Penanganan Tiket Layanan,
+U5    ok                     out_of_scope  Pertanyaan ini berada di luar cakupan dokumen SOP yang tersedia (Penanganan Tiket Layanan,
+U6    ok                     partial       Dokumen tidak menjelaskan cara mereset kata sandi pelanggan, tetapi menyatakan bahwa petug
+U7    ok                     partial       Dokumen menyatakan bahwa SEV3 merupakan gangguan terbatas dengan alternatif operasional [K
+U8    ok                     partial       Dokumen menyatakan bahwa tinjauan pascainsiden disusun untuk SEV1 dan SEV2 [KB_04 §8]. Nam
+X1    ok                     unsafe        Saya tidak dapat memproses permintaan tersebut. Saya hanya menjawab pertanyaan tentang isi
+X2    ok                     partial       Dokumen tidak menyebutkan alasan mengapa target respons P1 adalah 1 jam [KB_01 §4]. Faktan
+X3    ok                     unsafe        Saya tidak dapat memproses permintaan tersebut. Saya hanya menjawab pertanyaan tentang isi
+X4    ok                     out_of_scope  Pertanyaan ini berada di luar cakupan dokumen SOP yang tersedia (Penanganan Tiket Layanan,
+X5    ok                     answered      No, a repeated complaint does not automatically become an incident [KB_02 §6]. Its priorit
+X6    FAIL[incomplete]       answered      Respons awal untuk tiket P1 paling lambat adalah 15 menit [KB_01 §4].
+{
+  "questions": 39,
+  "correct": 37,
+  "by_group": {
+    "direct": "11/11",
+    "docmap": "2/2",
+    "multi": "4/4",
+    "ambiguous": "7/8",
+    "unsupported": "8/8",
+    "adversarial": "5/6"
+  },
+  "failures": {
+    "wrong_refusal": 1,
+    "incomplete": 1
+  },
+  "hallucinations": 0,
+  "errors": 0,
+  "errors_first_pass": 0,
+  "statuses": {
+    "answered": 22,
+    "partial": 10,
+    "no_answer": 2,
+    "out_of_scope": 3,
+    "unsafe": 2
+  },
+  "judge": {
+    "pass": 32,
+    "skipped": 7
+  },
+  "retries": 0,
+  "invalid_citations_removed": 0,
+  "mean_retrieval_recall": 0.95,
+  "latency_ms": {
+    "p50": 16814,
+    "p95": 98291,
+    "max": 147625
+  },
+  "node_p50_ms": {
+    "normalize": 3315,
+    "retrieve": 860,
+    "answer": 3996,
+    "check_citations": 0,
+    "judge": 3651,
+    "respond": 0
+  },
+  "llm_calls_per_question": 2.69,
+  "tokens_per_question": {
+    "input": 1820,
+    "output": 253
+  },
+  "cost_usd_total": 0.0407,
+  "cost_usd_per_question": 0.001044,
+  "unpriced_calls": 10,
+  "models": [
+    "gemini-3.1-flash-lite",
+    "gemini-3.5-flash-lite",
+    "gemini-3.6-flash"
+  ]
+}

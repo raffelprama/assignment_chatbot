@@ -1,0 +1,344 @@
+{
+  "doc_id": "KB_01_Penanganan_Tiket_Layanan",
+  "label": "KB_01",
+  "file_name": "KB_01_Penanganan_Tiket_Layanan.pdf",
+  "sha256": "eba9b6664510828b6a23b87e66a0f7220ffecc616c8ade035c0e6ebe02867d7f",
+  "title": "Penanganan Tiket Layanan",
+  "structure": "numbered",
+  "pages": [
+    {
+      "page_no": 1,
+      "method": "vision",
+      "layout": "two_column",
+      "text": "Penanganan Tiket Layanan\n\n1. Tujuan\n\nPanduan ini digunakan oleh petugas layanan untuk menerima, mengelompokkan, menangani, dan menutup tiket pelanggan secara konsisten. Setiap tiket wajib memiliki nomor referensi dan waktu pencatatan.\n\n2. Pencatatan Tiket\n\nCatat identitas pelanggan, kanal laporan, ringkasan masalah, waktu kejadian, dampak layanan, dan bukti pendukung. Apabila informasi belum lengkap, tiket tetap dibuat dengan status Menunggu Informasi.\n\n3. Tingkat Prioritas\n\nP1 Kritis: layanan utama tidak dapat digunakan oleh banyak pelanggan. P2 Tinggi: fungsi penting terganggu dengan solusi sementara terbatas. P3 Sedang: gangguan parsial yang masih memiliki alternatif. P4 Rendah: pertanyaan umum atau permintaan administratif.\n\n4. Target Respons Awal\n\nP1: 15 menit; P2: 1 jam; P3: 4 jam kerja; P4: 1 hari kerja. Respons awal berarti petugas telah mengakui laporan dan menyampaikan langkah berikutnya, bukan bahwa masalah sudah selesai.\n\n5. Penugasan\n\nPetugas layanan melakukan triase dan menetapkan penanggung jawab. Tim teknis menangani gangguan sistem, sedangkan tim administrasi menangani perubahan data dan permintaan dokumen.\n\n6. Status Tiket\n\nStatus yang digunakan adalah Baru, Diproses, Menunggu Pelanggan, Menunggu Pihak Ketiga, Selesai, dan Ditutup. Perubahan status harus disertai catatan aktivitas.\n\n7. Penutupan\n\nTiket dapat ditutup setelah penyelesaian dikonfirmasi pelanggan atau setelah dua hari kerja tanpa tanggapan sejak notifikasi selesai, kecuali tiket P1 yang memerlukan konfirmasi eksplisit.\n\n8. Catatan Khusus\n\nApabila ada indikasi kebocoran data, jangan mencantumkan informasi rahasia dalam catatan tiket. Ikuti kebijakan insiden dan informasikan koordinator layanan.",
+      "route_reason": "too little text (0 chars)"
+    }
+  ],
+  "sections": [
+    {
+      "section_no": 1,
+      "title": "Tujuan",
+      "text": "Panduan ini digunakan oleh petugas layanan untuk menerima, mengelompokkan, menangani, dan menutup tiket pelanggan secara konsisten. Setiap tiket wajib memiliki nomor referensi dan waktu pencatatan.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 2,
+      "title": "Pencatatan Tiket",
+      "text": "Catat identitas pelanggan, kanal laporan, ringkasan masalah, waktu kejadian, dampak layanan, dan bukti pendukung. Apabila informasi belum lengkap, tiket tetap dibuat dengan status Menunggu Informasi.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 3,
+      "title": "Tingkat Prioritas",
+      "text": "P1 Kritis: layanan utama tidak dapat digunakan oleh banyak pelanggan. P2 Tinggi: fungsi penting terganggu dengan solusi sementara terbatas. P3 Sedang: gangguan parsial yang masih memiliki alternatif. P4 Rendah: pertanyaan umum atau permintaan administratif.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 4,
+      "title": "Target Respons Awal",
+      "text": "P1: 15 menit; P2: 1 jam; P3: 4 jam kerja; P4: 1 hari kerja. Respons awal berarti petugas telah mengakui laporan dan menyampaikan langkah berikutnya, bukan bahwa masalah sudah selesai.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 5,
+      "title": "Penugasan",
+      "text": "Petugas layanan melakukan triase dan menetapkan penanggung jawab. Tim teknis menangani gangguan sistem, sedangkan tim administrasi menangani perubahan data dan permintaan dokumen.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 6,
+      "title": "Status Tiket",
+      "text": "Status yang digunakan adalah Baru, Diproses, Menunggu Pelanggan, Menunggu Pihak Ketiga, Selesai, dan Ditutup. Perubahan status harus disertai catatan aktivitas.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 7,
+      "title": "Penutupan",
+      "text": "Tiket dapat ditutup setelah penyelesaian dikonfirmasi pelanggan atau setelah dua hari kerja tanpa tanggapan sejak notifikasi selesai, kecuali tiket P1 yang memerlukan konfirmasi eksplisit.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 8,
+      "title": "Catatan Khusus",
+      "text": "Apabila ada indikasi kebocoran data, jangan mencantumkan informasi rahasia dalam catatan tiket. Ikuti kebijakan insiden dan informasikan koordinator layanan.",
+      "pages": [
+        1
+      ]
+    }
+  ],
+  "doc_map": "Penanganan Tiket Layanan. Isi dokumen (8 bagian): §1 Tujuan; §2 Pencatatan Tiket; §3 Tingkat Prioritas; §4 Target Respons Awal; §5 Penugasan; §6 Status Tiket; §7 Penutupan; §8 Catatan Khusus.",
+  "keys": {
+    "1": [
+      {
+        "text": "Untuk apa panduan penanganan tiket layanan ini digunakan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Petugas layanan pake panduan ini buat apa aja?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apa saja yang wajib dimiliki setiap tiket pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Tujuan panduan penanganan tiket?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What must every customer ticket include?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "2": [
+      {
+        "text": "Informasi apa saja yang perlu dicatat saat membuat tiket pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo info tiket belum lengkap, statusnya gimana?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apa yang harus dicatat untuk tiket layanan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Pencatatan tiket, informasi apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What information should be recorded when creating a customer ticket?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "3": [
+      {
+        "text": "Apa definisi prioritas P1 Kritis untuk tiket layanan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo ada gangguan parsial tapi ada alternatif, itu prioritas apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana deskripsi prioritas P2 Tinggi?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Prioritas P4 itu apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What defines a P1 Critical priority ticket?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "4": [
+      {
+        "text": "Berapa target waktu respons awal untuk tiket prioritas P1?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Respons awal tiket P3 itu berapa lama?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apa arti dari respons awal dalam penanganan tiket?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Target respons awal P4?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What is the target initial response time for P2 priority tickets?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "5": [
+      {
+        "text": "Siapa yang bertanggung jawab melakukan triase dan menetapkan penanggung jawab tiket?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo ada gangguan sistem, siapa yang nanganin?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Tim apa yang menangani perubahan data dan permintaan dokumen?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Penugasan tiket, tim teknis menangani apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Which team handles system disruptions?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "6": [
+      {
+        "text": "Apa saja status yang digunakan dalam penanganan tiket layanan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo status tiket berubah, harus ada apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Sebutkan status-status tiket yang berlaku.",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Status tiket, apa saja?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What are the available statuses for a service ticket?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "7": [
+      {
+        "text": "Kapan tiket layanan dapat ditutup?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo tiket P1, penutupannya gimana?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana cara menutup tiket jika pelanggan tidak memberikan tanggapan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Penutupan tiket P1, syaratnya apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Under what conditions can a service ticket be closed?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "8": [
+      {
+        "text": "Apa yang harus dilakukan jika ada indikasi kebocoran data terkait tiket?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo ada indikasi kebocoran data, info rahasia boleh dicatat di tiket gak?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Siapa yang perlu diinformasikan jika ada indikasi kebocoran data?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kebocoran data, catatan tiket?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What actions should be taken if there is an indication of a data breach?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ]
+  },
+  "report": {
+    "pages_by_method": {
+      "vision": 1
+    },
+    "layouts": {
+      "two_column": 1
+    },
+    "sections": 8,
+    "keys": {
+      "kept": 40,
+      "dropped": 0
+    },
+    "validator": [],
+    "usage": {
+      "input_tokens": 1043,
+      "output_tokens": 4029,
+      "reasoning_tokens": 2718,
+      "llm_calls": 2,
+      "cost_usd": 0.010385,
+      "by_call": [
+        {
+          "node": "vision",
+          "model": "gemini-2.5-flash",
+          "input_tokens": 409,
+          "output_tokens": 667,
+          "reasoning_tokens": 228,
+          "latency_ms": 5945.4,
+          "cost_usd": 0.0017902
+        },
+        {
+          "node": "keys",
+          "model": "gemini-2.5-flash",
+          "input_tokens": 634,
+          "output_tokens": 3362,
+          "reasoning_tokens": 2490,
+          "latency_ms": 14114.3,
+          "cost_usd": 0.0085952
+        }
+      ]
+    }
+  },
+  "created_at": "2026-11-23T15:09:29+00:00"
+}

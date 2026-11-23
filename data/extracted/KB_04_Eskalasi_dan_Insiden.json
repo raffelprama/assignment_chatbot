@@ -1,0 +1,344 @@
+{
+  "doc_id": "KB_04_Eskalasi_dan_Insiden",
+  "label": "KB_04",
+  "file_name": "KB_04_Eskalasi_dan_Insiden.pdf",
+  "sha256": "b247ffca4be5bdf445d82723931d62c4a296d47076b35925b7b74f8c8a21027e",
+  "title": "Eskalasi dan Penanganan Insiden",
+  "structure": "numbered",
+  "pages": [
+    {
+      "page_no": 1,
+      "method": "vision",
+      "layout": "single_column",
+      "text": "Eskalasi dan Penanganan Insiden\n\n1. Definisi\nInsiden adalah gangguan yang mengurangi ketersediaan, keamanan, atau fungsi layanan. Tidak setiap\nkeluhan merupakan insiden; penilaian didasarkan pada dampak nyata dan risiko.\n\n2. Tingkat Insiden\nSEV1: gangguan menyeluruh atau dugaan paparan data sensitif. SEV2: layanan utama terdegradasi bagi\nbanyak pengguna. SEV3: gangguan terbatas dengan alternatif operasional. SEV4: gangguan minor tanpa\ndampak signifikan.\n\n3. Aktivasi Eskalasi\nSEV1 harus segera dilaporkan kepada koordinator insiden dan tim teknis piket, termasuk di luar jam\nlayanan. SEV2 dieskalasikan kepada penanggung jawab teknis paling lambat 30 menit sejak klasifikasi.\n\n4. Pembagian Peran\nKoordinator insiden memimpin keputusan dan komunikasi lintas tim. PIC teknis melakukan diagnosis serta\npemulihan. Petugas layanan menyampaikan pembaruan pelanggan berdasarkan informasi yang sudah\ndiverifikasi.\n\n5. Komunikasi Insiden\nUntuk SEV1, pembaruan status internal dibuat setiap 20 menit. Komunikasi pelanggan menggunakan\nringkasan dampak, langkah mitigasi, dan waktu pembaruan berikutnya tanpa mengungkap detail\nkeamanan sensitif.\n\n6. Penanganan Keamanan\nIndikasi kebocoran data harus segera dibatasi aksesnya dan dicatat melalui kanal keamanan. Jangan\nmengunggah contoh data pribadi ke tiket umum. Penilaian dampak dilakukan oleh pihak yang berwenang.\n\n7. Pemulihan\nStatus pulih ditetapkan setelah fungsi utama diverifikasi. Penyelesaian insiden tidak otomatis menutup\nsemua tiket pelanggan yang terkait; tiap tiket tetap mengikuti aturan penutupan tiket.\n\n8. Evaluasi Pascainsiden\nUntuk SEV1 dan SEV2, tim menyusun tinjauan pascainsiden paling lambat lima hari kerja setelah\npemulihan, meliputi kronologi, akar masalah yang diketahui, tindakan, dan langkah pencegahan.",
+      "route_reason": "too little text (0 chars)"
+    }
+  ],
+  "sections": [
+    {
+      "section_no": 1,
+      "title": "Definisi",
+      "text": "Insiden adalah gangguan yang mengurangi ketersediaan, keamanan, atau fungsi layanan. Tidak setiap keluhan merupakan insiden; penilaian didasarkan pada dampak nyata dan risiko.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 2,
+      "title": "Tingkat Insiden",
+      "text": "SEV1: gangguan menyeluruh atau dugaan paparan data sensitif. SEV2: layanan utama terdegradasi bagi banyak pengguna. SEV3: gangguan terbatas dengan alternatif operasional. SEV4: gangguan minor tanpa dampak signifikan.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 3,
+      "title": "Aktivasi Eskalasi",
+      "text": "SEV1 harus segera dilaporkan kepada koordinator insiden dan tim teknis piket, termasuk di luar jam layanan. SEV2 dieskalasikan kepada penanggung jawab teknis paling lambat 30 menit sejak klasifikasi.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 4,
+      "title": "Pembagian Peran",
+      "text": "Koordinator insiden memimpin keputusan dan komunikasi lintas tim. PIC teknis melakukan diagnosis serta pemulihan. Petugas layanan menyampaikan pembaruan pelanggan berdasarkan informasi yang sudah diverifikasi.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 5,
+      "title": "Komunikasi Insiden",
+      "text": "Untuk SEV1, pembaruan status internal dibuat setiap 20 menit. Komunikasi pelanggan menggunakan ringkasan dampak, langkah mitigasi, dan waktu pembaruan berikutnya tanpa mengungkap detail keamanan sensitif.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 6,
+      "title": "Penanganan Keamanan",
+      "text": "Indikasi kebocoran data harus segera dibatasi aksesnya dan dicatat melalui kanal keamanan. Jangan mengunggah contoh data pribadi ke tiket umum. Penilaian dampak dilakukan oleh pihak yang berwenang.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 7,
+      "title": "Pemulihan",
+      "text": "Status pulih ditetapkan setelah fungsi utama diverifikasi. Penyelesaian insiden tidak otomatis menutup semua tiket pelanggan yang terkait; tiap tiket tetap mengikuti aturan penutupan tiket.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 8,
+      "title": "Evaluasi Pascainsiden",
+      "text": "Untuk SEV1 dan SEV2, tim menyusun tinjauan pascainsiden paling lambat lima hari kerja setelah pemulihan, meliputi kronologi, akar masalah yang diketahui, tindakan, dan langkah pencegahan.",
+      "pages": [
+        1
+      ]
+    }
+  ],
+  "doc_map": "Eskalasi dan Penanganan Insiden. Isi dokumen (8 bagian): §1 Definisi; §2 Tingkat Insiden; §3 Aktivasi Eskalasi; §4 Pembagian Peran; §5 Komunikasi Insiden; §6 Penanganan Keamanan; §7 Pemulihan; §8 Evaluasi Pascainsiden.",
+  "keys": {
+    "1": [
+      {
+        "text": "Apa definisi insiden dalam konteks layanan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo keluhan itu insiden bukan sih?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana cara menilai apakah suatu keluhan termasuk insiden?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Insiden itu apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What is the definition of an incident?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "2": [
+      {
+        "text": "Apa yang dimaksud dengan insiden tingkat SEV1?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo SEV2 itu gangguan yang kayak gimana?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana karakteristik insiden SEV3?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Insiden SEV4 itu apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What defines a SEV1 incident?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "3": [
+      {
+        "text": "Kepada siapa insiden SEV1 harus dilaporkan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo ada insiden SEV2, harus lapor ke siapa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana prosedur pelaporan insiden SEV1?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Eskalasi SEV2, kapan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Who should be notified immediately for a SEV1 incident?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "4": [
+      {
+        "text": "Apa peran koordinator insiden dalam penanganan insiden?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo PIC teknis itu ngapain aja?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Siapa yang bertanggung jawab untuk diagnosis dan pemulihan insiden?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Petugas layanan, tugasnya apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What is the role of the incident coordinator?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "5": [
+      {
+        "text": "Bagaimana format komunikasi insiden kepada pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo update status internal buat SEV1 itu berapa sering?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Informasi apa saja yang boleh disampaikan kepada pelanggan saat komunikasi insiden?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Komunikasi pelanggan insiden, apa saja yang tidak boleh diungkap?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What information should be included in customer incident communications?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "6": [
+      {
+        "text": "Apa yang harus dilakukan jika ada indikasi kebocoran data?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo ada dugaan kebocoran data, gimana penanganannya?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Siapa yang melakukan penilaian dampak kebocoran data?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kebocoran data, apa yang tidak boleh diunggah?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What action should be taken immediately upon indication of a data breach?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "7": [
+      {
+        "text": "Kapan status pulih untuk insiden dapat ditetapkan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo insiden udah selesai, tiket pelanggan otomatis ketutup gak?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bagaimana proses penutupan tiket pelanggan setelah insiden selesai?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Status pulih, kapan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "When is the recovery status for an incident established?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "8": [
+      {
+        "text": "Apa saja yang harus dicakup dalam tinjauan pascainsiden untuk SEV1 dan SEV2?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo insiden SEV1 atau SEV2, kapan tinjauan pascainsiden harus dibuat?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Untuk insiden tingkat apa tinjauan pascainsiden diperlukan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Tinjauan pascainsiden, isi?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What information should be included in a post-incident review for SEV1 and SEV2?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ]
+  },
+  "report": {
+    "pages_by_method": {
+      "vision": 1
+    },
+    "layouts": {
+      "single_column": 1
+    },
+    "sections": 8,
+    "keys": {
+      "kept": 40,
+      "dropped": 0
+    },
+    "validator": [],
+    "usage": {
+      "input_tokens": 1060,
+      "output_tokens": 4068,
+      "reasoning_tokens": 2690,
+      "llm_calls": 2,
+      "cost_usd": 0.010488,
+      "by_call": [
+        {
+          "node": "vision",
+          "model": "gemini-2.5-flash",
+          "input_tokens": 409,
+          "output_tokens": 1048,
+          "reasoning_tokens": 580,
+          "latency_ms": 6481.8,
+          "cost_usd": 0.0027427
+        },
+        {
+          "node": "keys",
+          "model": "gemini-2.5-flash",
+          "input_tokens": 651,
+          "output_tokens": 3020,
+          "reasoning_tokens": 2110,
+          "latency_ms": 13969.8,
+          "cost_usd": 0.0077453
+        }
+      ]
+    }
+  },
+  "created_at": "2026-11-23T15:14:51+00:00"
+}

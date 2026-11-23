@@ -1,0 +1,8 @@
+# Local Qdrant (option C in .env.example). Then set QDRANT_CLUSTER=http://localhost:6333
+services:
+  qdrant:
+    image: qdrant/qdrant:v1.20.2
+    ports:
+      - "6333:6333"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage

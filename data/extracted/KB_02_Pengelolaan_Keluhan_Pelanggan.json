@@ -1,0 +1,335 @@
+{
+  "doc_id": "KB_02_Pengelolaan_Keluhan_Pelanggan",
+  "label": "KB_02",
+  "file_name": "KB_02_Pengelolaan_Keluhan_Pelanggan.pdf",
+  "sha256": "7ce189a346545c84f5c40024dabef621cff7a8ed4aa2f8a42180148cf4585f92",
+  "title": "Pengelolaan Keluhan Pelanggan",
+  "structure": "numbered",
+  "pages": [
+    {
+      "page_no": 1,
+      "method": "text_layer",
+      "layout": "single_column",
+      "text": "Pengelolaan Keluhan Pelanggan\n1. Ruang Lingkup\nKeluhan adalah pernyataan ketidakpuasan pelanggan atas layanan, komunikasi, hasil penanganan, atau\nperilaku petugas. Keluhan dapat diterima melalui email, telepon, formulir, dan percakapan resmi.\n2. Verifikasi\nPetugas mencocokkan identitas pelapor dengan informasi akun yang tersedia. Jangan meminta kata\nsandi, PIN, atau kode OTP. Bukti percakapan boleh dilampirkan setelah data sensitif disamarkan.\n3. Kategori Keluhan\nKategori layanan mencakup kualitas respons, keterlambatan, kesalahan informasi, kendala pembayaran,\ndan sikap petugas. Satu keluhan dapat memiliki kategori utama dan kategori tambahan.\n4. Konfirmasi Penerimaan\nKeluhan harus diakui paling lambat satu hari kerja sejak diterima. Nomor referensi dan perkiraan waktu\npembaruan disampaikan kepada pelanggan.\n5. Penanganan\nPetugas menelusuri kronologi, memeriksa bukti, menghubungi unit terkait, dan mendokumentasikan\ntindakan. Jika penyelesaian membutuhkan keputusan lintas tim, koordinator layanan menetapkan PIC\nutama.\n6. Keluhan Berulang\nKeluhan dengan isu yang sama dalam 30 hari ditandai sebagai berulang dan ditinjau koordinator. Keluhan\nberulang tidak otomatis menjadi insiden P1; penentuan prioritas mengikuti dampak aktual.\n7. Kompensasi\nPetugas tidak boleh menjanjikan pengembalian dana atau kompensasi sebelum ada persetujuan pejabat\nberwenang. Semua keputusan kompensasi dicatat bersama dasar persetujuannya.\n8. Penyelesaian dan Umpan Balik\nHasil penanganan disampaikan dengan bahasa yang mudah dipahami. Keluhan dianggap selesai setelah\ntindakan telah dilaksanakan dan pelanggan diberi penjelasan. Umpan balik negatif setelah penutupan\ndicatat sebagai tindak lanjut baru bila ada informasi baru.",
+      "route_reason": "text layer ok"
+    }
+  ],
+  "sections": [
+    {
+      "section_no": 1,
+      "title": "Ruang Lingkup",
+      "text": "Keluhan adalah pernyataan ketidakpuasan pelanggan atas layanan, komunikasi, hasil penanganan, atau perilaku petugas. Keluhan dapat diterima melalui email, telepon, formulir, dan percakapan resmi.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 2,
+      "title": "Verifikasi",
+      "text": "Petugas mencocokkan identitas pelapor dengan informasi akun yang tersedia. Jangan meminta kata sandi, PIN, atau kode OTP. Bukti percakapan boleh dilampirkan setelah data sensitif disamarkan.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 3,
+      "title": "Kategori Keluhan",
+      "text": "Kategori layanan mencakup kualitas respons, keterlambatan, kesalahan informasi, kendala pembayaran, dan sikap petugas. Satu keluhan dapat memiliki kategori utama dan kategori tambahan.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 4,
+      "title": "Konfirmasi Penerimaan",
+      "text": "Keluhan harus diakui paling lambat satu hari kerja sejak diterima. Nomor referensi dan perkiraan waktu pembaruan disampaikan kepada pelanggan.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 5,
+      "title": "Penanganan",
+      "text": "Petugas menelusuri kronologi, memeriksa bukti, menghubungi unit terkait, dan mendokumentasikan tindakan. Jika penyelesaian membutuhkan keputusan lintas tim, koordinator layanan menetapkan PIC utama.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 6,
+      "title": "Keluhan Berulang",
+      "text": "Keluhan dengan isu yang sama dalam 30 hari ditandai sebagai berulang dan ditinjau koordinator. Keluhan berulang tidak otomatis menjadi insiden P1; penentuan prioritas mengikuti dampak aktual.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 7,
+      "title": "Kompensasi",
+      "text": "Petugas tidak boleh menjanjikan pengembalian dana atau kompensasi sebelum ada persetujuan pejabat berwenang. Semua keputusan kompensasi dicatat bersama dasar persetujuannya.",
+      "pages": [
+        1
+      ]
+    },
+    {
+      "section_no": 8,
+      "title": "Penyelesaian dan Umpan Balik",
+      "text": "Hasil penanganan disampaikan dengan bahasa yang mudah dipahami. Keluhan dianggap selesai setelah tindakan telah dilaksanakan dan pelanggan diberi penjelasan. Umpan balik negatif setelah penutupan dicatat sebagai tindak lanjut baru bila ada informasi baru.",
+      "pages": [
+        1
+      ]
+    }
+  ],
+  "doc_map": "Pengelolaan Keluhan Pelanggan. Isi dokumen (8 bagian): §1 Ruang Lingkup; §2 Verifikasi; §3 Kategori Keluhan; §4 Konfirmasi Penerimaan; §5 Penanganan; §6 Keluhan Berulang; §7 Kompensasi; §8 Penyelesaian dan Umpan Balik.",
+  "keys": {
+    "1": [
+      {
+        "text": "Apa yang dimaksud dengan keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Keluhan pelanggan itu apa sih?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Melalui apa keluhan pelanggan bisa diterima?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Saluran penerimaan keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What defines a customer complaint?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "2": [
+      {
+        "text": "Bagaimana petugas memverifikasi identitas pelapor keluhan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Verifikasi identitas pelapor keluhan gimana?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apa yang tidak boleh diminta saat verifikasi keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Bukti percakapan keluhan pelanggan, boleh dilampirkan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What information should not be requested during customer complaint verification?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "3": [
+      {
+        "text": "Apa saja kategori layanan dalam keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kategori keluhan pelanggan apa aja sih?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kategori utama dan tambahan keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Contoh kategori layanan keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What are the service categories for customer complaints?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "4": [
+      {
+        "text": "Kapan keluhan pelanggan harus diakui setelah diterima?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Konfirmasi penerimaan keluhan pelanggan paling lambat kapan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Informasi apa yang disampaikan ke pelanggan saat konfirmasi keluhan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Nomor referensi dan perkiraan waktu pembaruan keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What information is provided to the customer upon complaint acknowledgement?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "5": [
+      {
+        "text": "Bagaimana proses penanganan keluhan pelanggan dilakukan oleh petugas?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Penanganan keluhan pelanggan itu gimana?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apa saja langkah penanganan keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Siapa yang menetapkan PIC utama jika penyelesaian keluhan butuh keputusan lintas tim?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What are the steps for handling a customer complaint?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "6": [
+      {
+        "text": "Apa yang dimaksud dengan keluhan pelanggan berulang?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Keluhan berulang itu gimana sih?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kapan keluhan pelanggan ditandai sebagai berulang?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apakah keluhan berulang otomatis menjadi insiden P1?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "What defines a recurring customer complaint?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "7": [
+      {
+        "text": "Kapan petugas boleh menjanjikan kompensasi atau pengembalian dana kepada pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kalo kompensasi keluhan pelanggan, petugas boleh janjiin kapan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Siapa yang harus menyetujui kompensasi keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Apa yang harus dicatat terkait keputusan kompensasi keluhan pelanggan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Who must approve customer compensation or refunds?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ],
+    "8": [
+      {
+        "text": "Bagaimana hasil penanganan keluhan pelanggan harus disampaikan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Keluhan pelanggan dianggap selesai kapan?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Kapan keluhan pelanggan dianggap selesai?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "Umpan balik negatif setelah penutupan keluhan pelanggan dicatat sebagai apa?",
+        "lang": "id",
+        "source": "generated"
+      },
+      {
+        "text": "When is a customer complaint considered resolved?",
+        "lang": "en",
+        "source": "generated"
+      }
+    ]
+  },
+  "report": {
+    "pages_by_method": {
+      "text_layer": 1
+    },
+    "layouts": {
+      "single_column": 1
+    },
+    "sections": 8,
+    "keys": {
+      "kept": 40,
+      "dropped": 0
+    },
+    "validator": [],
+    "usage": {
+      "input_tokens": 631,
+      "output_tokens": 3017,
+      "reasoning_tokens": 2379,
+      "llm_calls": 1,
+      "cost_usd": 0.007732,
+      "by_call": [
+        {
+          "node": "keys",
+          "model": "gemini-2.5-flash",
+          "input_tokens": 631,
+          "output_tokens": 3017,
+          "reasoning_tokens": 2379,
+          "latency_ms": 25156.8,
+          "cost_usd": 0.0077318000000000005
+        }
+      ]
+    }
+  },
+  "created_at": "2026-11-23T15:10:03+00:00"
+}
